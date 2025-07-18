@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/cp-dotcom/LeetCode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/cp-dotcom/LeetCode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/cp-dotcom/LeetCode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/cp-dotcom/LeetCode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cp-dotcom/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/cp-dotcom/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
