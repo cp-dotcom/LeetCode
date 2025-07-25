@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/cp-dotcom/LeetCode/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/cp-dotcom/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/cp-dotcom/LeetCode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -26,5 +27,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/cp-dotcom/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/cp-dotcom/LeetCode/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/cp-dotcom/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
