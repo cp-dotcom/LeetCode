@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/cp-dotcom/LeetCode/tree/master/0812-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/cp-dotcom/LeetCode/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/cp-dotcom/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
