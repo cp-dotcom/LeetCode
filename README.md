@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cp-dotcom/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/cp-dotcom/LeetCode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2384-root-equals-sum-of-children](https://github.com/cp-dotcom/LeetCode/tree/master/2384-root-equals-sum-of-children) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/cp-dotcom/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
