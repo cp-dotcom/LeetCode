@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/cp-dotcom/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/cp-dotcom/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/cp-dotcom/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/cp-dotcom/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/cp-dotcom/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/cp-dotcom/LeetCode/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/cp-dotcom/LeetCode/tree/master/0812-rotate-string) |
 ## Array
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/cp-dotcom/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/cp-dotcom/LeetCode/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |
