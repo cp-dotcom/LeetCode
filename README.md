@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/cp-dotcom/LeetCode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/cp-dotcom/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/cp-dotcom/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/cp-dotcom/LeetCode/tree/master/0412-fizz-buzz) |
 ## String
@@ -53,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/cp-dotcom/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/cp-dotcom/LeetCode/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/cp-dotcom/LeetCode/tree/master/0217-contains-duplicate) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/cp-dotcom/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
