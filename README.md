@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/cp-dotcom/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/cp-dotcom/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/cp-dotcom/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/cp-dotcom/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/cp-dotcom/LeetCode/tree/master/0231-power-of-two) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/cp-dotcom/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/cp-dotcom/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
