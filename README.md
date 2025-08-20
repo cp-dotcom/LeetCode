@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/cp-dotcom/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/cp-dotcom/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cp-dotcom/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/cp-dotcom/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/cp-dotcom/LeetCode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/cp-dotcom/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/cp-dotcom/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/cp-dotcom/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/cp-dotcom/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/cp-dotcom/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/cp-dotcom/LeetCode/tree/master/0412-fizz-buzz) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cp-dotcom/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/cp-dotcom/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/cp-dotcom/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/cp-dotcom/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/cp-dotcom/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/cp-dotcom/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/cp-dotcom/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/cp-dotcom/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/cp-dotcom/LeetCode/tree/master/0461-hamming-distance) |
 ## Sorting
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/cp-dotcom/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cp-dotcom/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/cp-dotcom/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -83,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cp-dotcom/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/cp-dotcom/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
