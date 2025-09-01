@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/cp-dotcom/LeetCode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/cp-dotcom/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/cp-dotcom/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/cp-dotcom/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/cp-dotcom/LeetCode/tree/master/0268-missing-number) |
@@ -111,8 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/cp-dotcom/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/cp-dotcom/LeetCode/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/cp-dotcom/LeetCode/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/cp-dotcom/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
