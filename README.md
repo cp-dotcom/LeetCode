@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/cp-dotcom/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cp-dotcom/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cp-dotcom/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/cp-dotcom/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/cp-dotcom/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/cp-dotcom/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/cp-dotcom/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/cp-dotcom/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/cp-dotcom/LeetCode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/cp-dotcom/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/cp-dotcom/LeetCode/tree/master/0812-rotate-string) |
@@ -141,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cp-dotcom/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/cp-dotcom/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
